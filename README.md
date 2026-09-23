@@ -1,5 +1,2 @@
-# My Workspace
+![Workspace Layout](https://thum.io)
 
-Click the link below to open an unblocked visual frame:
-
-*   [👉 Launch Secure Mirror](https://google.com)
