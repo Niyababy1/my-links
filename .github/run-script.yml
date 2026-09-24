@@ -1,0 +1,11 @@
+name: Run My Script
+on: [workflow_dispatch] # This adds a manual button to run it
+
+jobs:
+  run-code:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run Script
+        run: python hello.py
+
